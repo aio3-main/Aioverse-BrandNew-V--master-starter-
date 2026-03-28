@@ -1,0 +1,445 @@
+# # AIOVERSE — Brand System Documentation
+
+**Aiotize Inc. · Official Brand Identity Reference**
+
+Version 1.0  ·  March 2026  ·  Confidential — Internal Use Only
+
+---
+
+## Table of Contents
+
+1. Brand Overview & Mission
+2. Logo System
+3. Colour Palette
+4. Typography
+5. Brand Voice & Tone
+6. Visual Language & Design Principles
+7. Logo Usage Rules
+8. Colour Application
+9. Typography Usage
+10. Digital & Social Media Guidelines
+11. Asset Repository Index
+12. Version History
+---
+
+## 01 — Brand Overview & Mission
+
+### Company Identity
+
+**Company Name:** Aiotize Inc.
+**Brand Universe:** AIOVERSE
+**Founded:** 2024
+**Headquarters:** Chandigarh, India
+**Domain:** Deep-Tech · AI-Powered Drone & UAV Systems
+**Primary Markets:** India · Middle East · Japan
+
+### Brand Mission
+
+> ==AIOVERSE== is the brand universe of Aiotize Inc. — a deep-tech platform pioneering AI-powered drone autonomy, swarm intelligence, and ISR (Intelligence, Surveillance & Reconnaissance) systems for defence and commercial applications.
+
+### Brand Pillars
+
+- **Intelligence** — AI-first, LLM/SLM-native architecture
+- **Precision** — Engineering exactness in every system
+- **Autonomy** — Self-governing, edge-capable operations
+- **Convergence** — Where AI meets unmanned aerial systems
+- **Sovereignty** — Built for national security & strategic advantage
+---
+
+## 02 — Logo System
+
+### The AIOVERSE Logomark
+
+The AIOVERSE identity is built around the ==**“Ai” logomark**== — a geometric, angular letterform constructed from precision-cut diagonal strokes. The mark communicates *velocity*, *intelligence*, and *structural precision* — the essential qualities of autonomous AI systems.
+
+### Logo Variants
+
+#### Primary Wordmark — Horizontal
+*File:* `logo_electricaqua.svg` · `logo_midnightteal.svg` · `logo_softwhite.svg`
+
+> Full wordmark: **AIOTIZE INC.** with the Ai letterform prefix — rendered in Nohemi typeface with custom geometric weight.
+
+![AIOVERSE Logo — Electric Aqua on Dark](https://aiotize0.sharepoint.com/sites/team/Shared%20Documents/AIOVERSE-BRAND%20ASSETS-REPO/All-Logo-Assets-Formats/logo_midnightteal.webp)
+
+#### Logomark Only (Icon)
+*File:* `lm_electricaqua.svg` · `lm_midnightteal.svg` · `lm_softwhite.svg`
+
+The standalone **Ai** icon for use as app icons, favicons, avatars, and badge applications.
+
+- `AI_-_Icon.webp` — Standard icon
+- `AI_-_Icon_rounded_gmail.webp` — Rounded for Gmail/Google profile
+- `AI_-_Icon_sphere.webp` — Spherical 3D variant
+- `AI_-_Grad.webp` — Gradient variant
+- `AI_-_Grid.webp` — Grid-overlay design variant
+- `AI_-_Soft.webp` — Soft white background variant
+- `AI_-_W.BG.webp` — White background variant
+
+#### Social & Platform Banners
+- `2560x1440(YouTube).webp` — YouTube channel banner
+- `Banner_-_2560x1440(YouTube).webp` — Branded YouTube banner
+- `DP_820x312(Facebook).webp` — Facebook cover photo
+---
+
+## 03 — Colour Palette
+
+The AIOVERSE colour system uses **three primary brand colours** inspired by deep-ocean bioluminescence and the precision of night-vision optics. Each colour carries functional intent.
+
+### Primary Colours
+
+| Colour Name | Hex | RGB | CMYK | Role |
+|---|---|---|---|---|
+| ==Electric Aqua== | `#73effb` | 115 / 239 / 251 | 52.18, 0, 10.09, 0 | Primary accent · CTA · Highlights |
+| ==Midnight Teal== | `#002428` | 0 / 36 / 40 | 88.58, 63.91, 62.23, 69.45 | Primary dark · Backgrounds · Depth |
+| ==Soft White== | `#fafafa` | 250 / 250 / 250 | 1.23, 0.57, 0.57, 0 | Primary light · Text · Negative space |
+
+### Colour Character
+
+#### ■ Electric Aqua — `#73effb`
+> *The signal frequency of intelligent systems.* Electric Aqua pulses with the energy of live data feeds, active drone swarms, and AI in motion. Use for **primary calls-to-action, active states, data highlights, and interactive UI elements.**
+
+#### ■ Midnight Teal — `#002428`
+> *The deep intelligence layer.* Midnight Teal is the substrate — profound, directional, and commanding. Use for **primary backgrounds, hero sections, presentation decks, and high-contrast layouts.**
+
+#### ■ Soft White — `#fafafa`
+> *Clarity and precision in the open field.* Soft White provides breathing room and legibility. Use for **body text on dark, UI containers, document backgrounds, and clean layout structures.**
+
+### Colour Palette Assets
+
+| Asset File | Format | Description |
+|---|---|---|
+| `Electric_Blue Large.png` | PNG | Full colour swatch card with HEX/RGB/CMYK |
+| `Electric_Blue.webp` | WebP | Optimised web format swatch |
+| `Midnight_Teal Large.png` | PNG | Full colour swatch card with HEX/RGB/CMYK |
+| `Midnight_Teal.webp` | WebP | Optimised web format swatch |
+| `Soft_White Large.png` | PNG | Full colour swatch card with HEX/RGB/CMYK |
+| `Soft_White.webp` | WebP | Optimised web format swatch |
+
+**Asset Location:** `AIOVERSE-BRAND ASSETS-REPO / All-Colour-Pallets /`
+
+---
+
+## 04 — Typography
+
+The AIOVERSE type system is built from a curated selection of typefaces that balance **technical authority**, **geometric clarity**, and **human legibility**.
+
+### Font Stack
+
+| Role                  | Typeface         | Style              | Usage                                           |
+|-----------------------|------------------|--------------------|-------------------------------------------------|
+| **Primary Display**   | NEBULA 2         | Futuristic Sans    | Headlines · Logomark · Key messaging            |
+| **Secondary Display** | Nohemi           | Geometric Sans     | Sub-headings · Section labels · UI headers      |
+| **System / Body**     | Helvetica Neue   | Neutral Sans       | Body copy · Paragraph text · Data tables        |
+| **Accent / Wordmark** | Sarpanch         | Display Serif/Sans | Campaign headlines · Emphasis                   |
+| **Technical / Mono**  | Tokyo Trail Mono | Monospace          | Code · Technical specs · Data feeds · Terminals |
+
+### Typeface Profiles
+
+#### Nohemi — *Primary Brand Font*
+- **Character:** Geometric, precise, modern — engineered for the screen
+- **Weight Range:** Thin → ExtraBold
+- **Use Cases:** AIOTIZE INC. wordmark, hero titles, pitch deck headlines, product naming
+- **File:** `nebula_2-font-family.zip` in `All-Fonts/`
+- **Pairing:** Works as headline + subheadline in multi-level typographic hierarchies
+
+#### Nebula — *Secondary Display Font*
+- **Character:** Futuristic, sharp, technical — evokes deep-space signal clarity
+- **Use Cases:** Section titles, UI header labels, capability tags
+- **File:** `nohemi.zip` in `All-Fonts/`
+
+#### Helvetica Neue — *Body & System Font*
+- **Character:** Neutral, universal, trusted — the backbone of corporate communication
+- **Use Cases:** All body text, captions, footnotes, tables, and supporting copy
+- **File:** `helvetica-neue-5.zip` in `All-Fonts/`
+- **Note:** Use Medium (500) or Regular (400) only. Avoid Condensed variants in brand contexts.
+
+#### Sarpanch — *Accent Display Font*
+- **Character:** Bold, aggressive, engineered weight — commands attention
+- **Use Cases:** Campaign posters, event branding, key data callouts
+- **File:** `Sarpanch.zip` in `All-Fonts/`
+
+#### Tokyo Trail Mono — *Technical Monospace*
+- **Character:** Terminal aesthetic, precision-coded, data-forward
+- **Use Cases:** Code blocks, telemetry readouts, ISR data labels, UI numeric displays
+- **File:** `Tokyo Trail Mono Font.zip` in `All-Fonts/`
+
+### Typography Hierarchy
+
+```
+H1 — Nebula_2 ExtraBold · 48-72pt · Electric Aqua or Soft White
+H2 — Nebula_2 Bold · 32-48pt · Soft White or Midnight Teal
+H3 — Nohemi Medium · 24-32pt · Electric Aqua
+H4 — Nohemi SemiBold · 18-24pt · Soft White
+Body — Helvetica Neue Regular · 14-16pt · Soft White (#fafafa)
+Caption — Tokyo Trail Mono · 11-12pt · 60% Soft White
+Code — Tokyo Trail Mono · 13pt · Electric Aqua on Midnight Teal
+```
+
+**Asset Location:** `AIOVERSE-BRAND ASSETS-REPO / All-Fonts /`
+
+---
+
+## 05 — Brand Voice & Tone
+
+### Voice Attributes
+
+| Attribute | Description |
+|---|---|
+| **Authoritative** | Commands confidence — backed by deep technical expertise |
+| **Precise** | Clear, specific, never vague. Every word earns its place |
+| **Forward-Thinking** | Speaks to the future of autonomous systems and sovereign AI |
+| **Mission-Focused** | Grounded in real-world defence and commercial impact |
+| **Concise** | Engineered brevity — no redundancy, no filler |
+
+### Tone by Context
+
+- **Pitch Decks / Investor Materials:** Confident, data-driven, aspirational
+- **Technical Documentation:** Precise, procedural, unambiguous
+- **Social Media (LinkedIn):** Thought-leadership, industry insight, measured optimism
+- **Product Naming:** Systematic, codename-style, alphanumeric convention (e.g. AIO-01, SWARM-X)
+- **Press & PR:** Formal, achievement-focused, sector-aware
+
+### Brand Language Principles
+
+> *"We don’t build drones. We build sovereign intelligence platforms that happen to fly."*
+
+- Use **active voice** at all times
+- Prefer **technical precision** over marketing hyperbole
+- **Avoid:** generic AI buzzwords like “revolutionary”, “groundbreaking”, “game-changing”
+- **Prefer:** “autonomous”, “edge-native”, “mission-capable”, “flight-ready”, “ISR-grade”
+
+---
+
+## 06 — Visual Language & Design Principles
+
+### Core Aesthetic
+
+The AIOVERSE visual language is defined by **dark-field precision** — inspired by:
+- Night-vision targeting systems
+- Deep-water bioluminescence
+- Avionics HUD (Heads-Up Display) interfaces
+- High-fidelity radar and telemetry readouts
+
+### Design Principles
+
+1. **Dark-Field First** — Lead with Midnight Teal as the dominant base. Light emerges from it.
+2. **Signal Over Noise** — Every design element serves communication. Eliminate decorative excess.
+3. **Geometric Tension** — Use diagonal lines, angular crops, and structural grid systems to convey velocity.
+4. **Monochromatic Depth** — Build depth within the brand palette. Avoid outside colours in primary materials.
+5. **Type as Architecture** — Typography is structural. Treat headlines as load-bearing elements.
+6. **Whitespace as Intention** — Negative space communicates clarity and confidence.
+
+### Grid System
+
+- **Base Unit:** 8px grid
+- **Column Grid:** 12-column for digital · 8-column for print
+- **Margins:** Consistent 40px (digital) / 15mm (print)
+- **Content Max-Width:** 1280px (digital)
+
+### Iconography
+
+- Use **geometric, line-based icons** only
+- Stroke weight: 1.5–2px at 24px base size
+- Colour: Electric Aqua `#73effb` on dark; Midnight Teal `#002428` on light
+- Style: Angular, not rounded — consistent with the Ai logomark geometry
+---
+
+## 07 — Logo Usage Rules
+
+### Do
+- [ ] Always use official SVG or high-resolution PNG files from the asset repo
+- [ ] Maintain minimum clear space of ==1x the height of the “Ai” letterform== around all logo variants
+- [ ] Use the ==Electric Aqua== wordmark on Midnight Teal backgrounds
+- [ ] Use the ==Midnight Teal== wordmark on Soft White backgrounds
+- [ ] Use the ==Soft White== wordmark on all photographic or textured backgrounds
+- [ ] Preserve the exact proportional relationship between the Ai mark and the wordmark
+
+### Do Not
+- [ ] ~~Never recolour the logo with non-brand colours~~
+- [ ] ~~Never use the logo on backgrounds with poor contrast~~
+- [ ] ~~Never stretch, skew, rotate, or distort the logo~~
+- [ ] ~~Never apply drop shadows, gradients, or effects to the logo~~
+- [ ] ~~Never recreate the logo in a different typeface~~
+- [ ] ~~Never place the wordmark below the minimum usage size of 80px width (digital) or 20mm (print)~~
+
+### Minimum Size Guidelines
+
+| Medium | Minimum Width |
+|---|---|
+| Digital / Screen | 80px |
+| Print | 20mm |
+| Favicon / Icon | 16px (use Ai mark only) |
+| Business Card | 25mm |
+
+---
+
+## 08 — Colour Application
+
+### Dark Theme (Primary)
+
+| Element | Colour | Hex |
+|---|---|---|
+| Background | Midnight Teal | `#002428` |
+| Primary Text | Soft White | `#fafafa` |
+| Accent / CTA | Electric Aqua | `#73effb` |
+| Secondary Text | Soft White 60% | `rgba(250,250,250,0.6)` |
+| Dividers / Borders | Electric Aqua 20% | `rgba(115,239,251,0.2)` |
+| Code Highlights | Electric Aqua | `#73effb` |
+
+### Light Theme (Secondary)
+
+| Element | Colour | Hex |
+|---|---|---|
+| Background | Soft White | `#fafafa` |
+| Primary Text | Midnight Teal | `#002428` |
+| Accent / CTA | Midnight Teal | `#002428` |
+| Secondary Text | Midnight Teal 60% | `rgba(0,36,40,0.6)` |
+| Dividers | Midnight Teal 20% | `rgba(0,36,40,0.2)` |
+
+### CSS Variables Reference
+
+```css
+:root {
+  --color-electric-aqua: #73effb;
+  --color-midnight-teal: #002428;
+  --color-soft-white: #fafafa;
+  --color-aqua-glow: rgba(115, 239, 251, 0.15);
+  --color-teal-deep: rgba(0, 36, 40, 0.95);
+  --font-primary: 'Nohemi', sans-serif;
+  --font-secondary: 'Nebula', sans-serif;
+  --font-body: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --font-mono: 'Tokyo Trail Mono', 'Courier New', monospace;
+}
+```
+
+---
+
+## 09 — Digital & Social Media Guidelines
+
+### Platform Specifications
+
+| Platform | Asset File | Dimensions | Format |
+|---|---|---|---|
+| YouTube Channel Banner | `2560x1440(YouTube).webp` | 2560 × 1440px | WebP |
+| YouTube Branded Banner | `Banner_-_2560x1440(YouTube).webp` | 2560 × 1440px | WebP |
+| Facebook Cover | `DP_820x312(Facebook).webp` | 820 × 312px | WebP |
+| Gmail / Google Avatar | `AI_-_Icon_rounded_gmail.webp` | 1:1 Square | WebP |
+| LinkedIn / Generic Avatar | `AI_-_Icon.webp` | 1:1 Square | WebP |
+
+### Social Media Tone
+
+- **LinkedIn:** Technical thought leadership · industry insight · strategic milestones
+- **X (Twitter):** Brief, precise updates · tech commentary · product teasers
+- **Instagram:** Visual identity showcase · product renders · behind-the-scenes engineering
+- **YouTube:** Technical demonstrations · flight tests · system walkthroughs
+
+### Hashtag System
+
+```
+Primary:    #AIOVERSE  #AiotizeInc  #AIPoweredDrones
+Tech:       #DroneAI  #SwarmIntelligence  #EdgeAI  #ISR
+Market:     #DefenceTech  #MadeinIndia  #DeepTech  #StartupIndia
+Campaign:   #AutonomousFleet  #SovereignAI  #FlightReady
+```
+
+---
+
+## 10 — Logo Vector & Print Files
+
+### Master Source Files
+
+| File | Format | Description |
+|---|---|---|
+| `Logo.ai` | Adobe Illustrator | Master logo vector source |
+| `AiotizeThin.ai` | Adobe Illustrator | Thin weight logo variant |
+| `Aiotize Inc vector 8.pdf` | PDF | Print-ready vector logo |
+| `aiotize_pf6300x.webp` | WebP | High-res raster for digital use |
+
+### Colour Variants Available
+
+| Variant | Files Available |
+|---|---|
+| Electric Aqua on White | `logo_electricaqua.svg` / `.webp` |
+| Midnight Teal on White | `logo_midnightteal.svg` / `.webp` |
+| Soft White on Dark | `logo_softwhite.svg` / `.webp` |
+| Logomark — Gradient | `Logomark_-_Grad.webp` |
+| Logomark — Midnight | `Logomark_-_Midnight.webp` |
+| Logomark — Soft | `Logomark_-_Soft.webp` |
+| Logomark (Icon) — Aqua | `lm_electricaqua.svg` / `.webp` |
+| Logomark (Icon) — Teal | `lm_midnightteal.svg` / `.webp` |
+| Logomark (Icon) — White | `lm_softwhite.svg` / `.webp` |
+
+---
+
+## 11 — Asset Repository Index
+
+### SharePoint Repository Root
+
+**Path:** `AIOVERSE-BRAND ASSETS-REPO`
+**Access:** [AIOVERSE Brand Assets — SharePoint](https://aiotize0.sharepoint.com/:f:/s/team/IgBeQ1dNLJO5R6FKnpYT46FJAYwg2qwnfgirdNUsjIXWHM4?e=H3j01c)
+
+### Folder Structure
+
+```
+AIOVERSE-BRAND ASSETS-REPO/
+├── All-Colour-Pallets/
+│   ├── Electric_Blue Large.png
+│   ├── Electric_Blue.webp
+│   ├── Midnight_Teal Large.png
+│   ├── Midnight_Teal.webp
+│   ├── Soft_White Large.png
+│   └── Soft_White.webp
+├── All-DOCS/
+├── All-Fonts/
+│   ├── helvetica-neue-5.zip
+│   ├── nebula_2.zip
+│   ├── nohemi-font-family.zip
+│   ├── Sarpanch.zip
+│   └── Tokyo Trail Mono Font.zip
+├── All-Logo-Assets-Formats/
+│   ├── Logo.ai                        ← Master source
+│   ├── AiotizeThin.ai
+│   ├── Aiotize Inc vector 8.pdf
+│   ├── logo_electricaqua.svg / .webp
+│   ├── logo_midnightteal.svg / .webp
+│   ├── logo_softwhite.svg / .webp
+│   ├── lm_electricaqua.svg / .webp
+│   ├── lm_midnightteal.svg / .webp
+│   ├── lm_softwhite.svg / .webp
+│   ├── AI_-_Icon.webp
+│   ├── AI_-_Icon_rounded_gmail.webp
+│   ├── AI_-_Icon_sphere.webp
+│   ├── AI_-_Grad.webp
+│   ├── AI_-_Grid.webp / AI_-_Grid - Copy.webp
+│   ├── AI_-_Soft.webp
+│   ├── AI_-_W.BG.webp
+│   ├── Logomark_-_Grad.webp
+│   ├── Logomark_-_Midnight.webp
+│   ├── Logomark_-_Soft.webp
+│   ├── 2560x1440(YouTube).webp
+│   ├── Banner_-_2560x1440(YouTube).webp
+│   ├── DP_820x312(Facebook).webp
+│   └── aiotize_pf6300x.webp
+├── All-Templates/
+└── AIOVERSE-NOTEBOOK.one
+```
+
+---
+
+## 12 — Version History
+
+| Version | Date | Author | Notes |
+|---|---|---|---|
+| 1.0 | March 2026 | Aiotize Brand Team | Initial brand system documentation release |
+
+---
+
+> **📎 Asset Repository:** All brand assets, font files, and source files are maintained in the [AIOVERSE Brand Assets SharePoint Repository](https://aiotize0.sharepoint.com/:f:/s/team/IgBeQ1dNLJO5R6FKnpYT46FJAYwg2qwnfgirdNUsjIXWHM4?e=H3j01c). For access, contact the AIOVERSE brand team.
+
+> **⚠️ Usage Policy:** All brand assets are proprietary to Aiotize Inc. Unauthorised reproduction, modification, or distribution of brand identity elements is strictly prohibited.
+
+
+---
+
+*AIOVERSE Brand System Documentation v1.0 · © 2026 Aiotize Inc. All rights reserved.*
+
+\#AIOVERSE/Brand-System \#Aiotize/Identity \#Design/Brand-Guidelines
